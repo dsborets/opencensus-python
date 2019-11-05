@@ -16,6 +16,3 @@ script:
   - tox
   - touch docs/.nojekyll
 
-branches:
-  only:
-    - master

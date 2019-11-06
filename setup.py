@@ -42,6 +42,7 @@ setup(
     install_requires=[
         'opencensus-context == 0.2.dev0',
         'google-api-core >= 1.0.0, < 2.0.0',
+        'setuptools >= 36.4.0',
     ],
     extras_require={},
     license='Apache-2.0',
